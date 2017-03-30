@@ -2,3 +2,22 @@
 layout: post
 title: "The First Post"
 ---
+
+So this is my first post, I think I'm going to dive into jekyll quite a lot in the upcoming days.
+
+Let's try out some of the functionality, let's put a link right [here][here-gh].
+
+And let's add a code snippet below...
+{% highlight ruby %}
+def who_is_the_man?(name)
+  print "#{name} is the man!!!"
+end
+{% endhighlight %}
+
+Alright, its official I'm going to use this first post as a cheat sheet for this blog.
+
+![]({{ site.url }}/photos/cool_photo.jpg)
+
+
+
+[here-gh]: https://github.com/jonathanlofton
