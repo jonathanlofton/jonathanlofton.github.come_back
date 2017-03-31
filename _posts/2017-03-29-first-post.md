@@ -17,8 +17,11 @@ end
 
 Alright, its official I'm going to use this first post as a cheat sheet for this blog.
 
-![]({{ site.url }}/photos/cool_photo.jpg)
+Image Test:
 
+![Costa Rica](/assests/image.jpg)
+
+Nice...
 
 
 [here-gh]: https://github.com/jonathanlofton
