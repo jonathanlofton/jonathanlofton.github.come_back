@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The First Post"
+title: "Understanding Jekyll"
 date:   2017-03-29 20:11:44 -0700
 ---
 
