@@ -16,8 +16,8 @@
 title: The Tampa Transplant
 email: jonathanlofton91@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello! My name is Jonathan Lofton and this is my first webpage. I will be
-  using this site as my coding blog basically, but maybe I will add other stuff too!
+  Hello! My name is Jonathan Lofton and this is my personal site, for displaying my blogs
+  (which consist of notes for the most part) and projects that I have created or contributed to.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -26,7 +26,6 @@ github_username:  jonathanlofton
 
 # Build settings
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
 exclude:
