@@ -1,4 +1,59 @@
 /**
+* About Page
+*/
+.about-content {
+  margin-bottom: $spacing-unit;
+
+  img {
+      float: left;
+      max-width: 30%;
+      border-radius: 100%;
+      border: solid #ddd 1px;
+      margin-right: 5%;
+  }
+
+  h2 {
+    font-size: 32px;
+
+    @include media-query($on-laptop) {
+      font-size: 28px;
+    }
+  }
+
+  h3 {
+    font-size: 26px;
+
+    @include media-query($on-laptop) {
+      font-size: 22px;
+    }
+  }
+
+  h4 {
+    font-size: 20px;
+
+    @include media-query($on-laptop) {
+      font-size: 18px;
+    }
+  }
+}
+.about-title {
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align: center;
+
+
+  @include media-query($on-laptop) {
+    font-size: 36px;
+  }
+}
+
+
+
+
+
+
+/**
  * Site header
  */
 .site-header {
@@ -202,7 +257,7 @@
   font-size: 42px;
   letter-spacing: -1px;
   line-height: 1;
-  text-align: center;
+  text-align: left;
 
 
   @include media-query($on-laptop) {
@@ -212,7 +267,7 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
-  
+
   h2 {
     font-size: 32px;
 
