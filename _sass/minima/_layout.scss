@@ -8,8 +8,8 @@
       float: left;
       max-width: 30%;
       border-radius: 100%;
-      border: solid #ddd 1px;
       margin-right: 5%;
+      padding: 1%;
   }
 
   h2 {
@@ -41,6 +41,7 @@
   letter-spacing: -1px;
   line-height: 1;
   text-align: center;
+  padding:  2%;
 
 
   @include media-query($on-laptop) {
@@ -53,6 +54,7 @@
 
 
 
+// Things I have added are all above this line...
 /**
  * Site header
  */

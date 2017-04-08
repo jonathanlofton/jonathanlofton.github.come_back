@@ -17,5 +17,3 @@ Looking at my current degree ( Chemistry ) I have a very good idea of what the f
  So I was accepted into the AppAcademy program and will be moving to San Francisco for the May cohort, and I will be employed as a software developer by the end of 2017.
 
  I'm excited to start!
-
-Wish me luck.
